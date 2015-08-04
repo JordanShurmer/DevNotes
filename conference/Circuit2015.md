@@ -59,3 +59,40 @@ Slidedeck: http://slides.com/benwestrate/deck/live
 	* iron-fe node project from icf
 		* Auto-generate the maven xml files and blueprint directories for the Maven Front End stuffages
 * gulp-slang for watching/updating
+
+-----
+
+Maximize the pore of OSGi in AEM
+-----------------------------------------
+(David Bosschaert)
+### OSGi promises
+* OSGi aries
+* Javascript-style promises, can be used with Java 5 or later
+	* Asynchronous chaining
+	* Very simply programming model
+* Promises can be used outside of the OSGi framework
+
+###OSGI Services intro
+* Services are Java Objects (POJOs)
+	* registered by Bundles
+	* consumed by Bundles
+* "SOA inside the JVM"
+* Services looked up by type and/or custom filter
+	* "I want a service that implements org.acme.Payment where location=US"
+	* One or many returned
+* Dynamic! Services can be updated without taking down the consumer
+	* OSGI Service Consumer react to dynamism
+
+### Async Services
+
+### Notes
+* @interface annotation for component configuration! (maven bundle plugin)
+* Declarative Services
+* OSGi Subsystems (instead of AEM Packages for the bundles)
+	* Zip file with .esa extension
+	* feature
+	* application
+	* composite
+	* ESA Maven Plugin
+* OSGi Enterprise R6 (http://www.osgi.org/Download/Release6)
+* 
