@@ -115,4 +115,35 @@ History
 	* Very stable client API (+7 years)
 	* Extensions
 	* The Power of OSGi
-2. 
+2. Everything is a resource
+	* Resource API
+		* Simple to Use
+		* Powerful through adapter pattern
+		* full CRUD support
+		* Queries
+		* Access Gateway (add security at each resource if wanted)
+3. Build for the Cloud
+4. Local Events
+5. gasdgs
+6. Sightly -Beautiful Markup
+	* Lightweight
+	* Secure
+	* Code-less
+	* Powerful
+	* Intuitive
+7. Query API
+8. Provisioning Model
+	* provide a yaml-like file to configure the entire new env
+9. Testing!
+	* Don't mock the JCR stuff
+	* Don't run the real JCR in the tests
+	* **Apache Sling Testing Mocks**
+10. Sling IDE
+	* Eclipse based
+	* Develop bundles etc. within the IDE
+	* AEM Extensions
+	* Fast Round Trips
+		* Content
+		* Bundles
+11. It's Open Source!
+12. 
