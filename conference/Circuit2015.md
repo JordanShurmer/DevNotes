@@ -95,4 +95,24 @@ Maximize the pore of OSGi in AEM
 	* composite
 	* ESA Maven Plugin
 * OSGi Enterprise R6 (http://www.osgi.org/Download/Release6)
-* 
+
+
+10 Things Apache Sling Can Do...
+---------------------------------------
+History
+* Code donation to Apache in 2007
+	* OSGi implementations
+	* Tooling
+	* Sling Framework
+* ~40 committers
+* Highly Modular
+* ~15 releases per month
+* Platform for Adobe AEM
+* Used by various companies
+
+1. Sustainable through modularity
+	* Modules from the start
+	* Very stable client API (+7 years)
+	* Extensions
+	* The Power of OSGi
+2. 
