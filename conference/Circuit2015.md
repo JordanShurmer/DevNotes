@@ -26,7 +26,7 @@ Adobe Apps Component Development
 
 Devs the New Author (dialog story telling)
 --------------------------------------------------
-The dialog is a powerful way we, as developers, have to communicate directly to the content authors. It should tell a story.
+The dialog is a powerful way we, as developers, have to communicate directly to the content authors. It should tell a story.
 
 * Nested components, rather than a listing dialog thing. (e.g. each image in a photo gallery shows up as it's own component on the edit page!
 	* Inherit from parses?
@@ -54,17 +54,8 @@ Slidedeck: http://slides.com/benwestrate/deck/live
 		* gulp/grunt/build tools
 		* js lint/compile
 		* less/sass
-	* Not installing nodejs on the computer.
-
-
-
-
-
-
-
-
-
-
-
-
-
+	* (Not installing nodejs on the computer)
+	* com.github.eirslett frontend-maven-plugin
+	* iron-fe node project from icf
+		* Auto-generate the maven xml files and blueprint directories for the Maven Front End stuffages
+* gulp-slang for watching/updating
